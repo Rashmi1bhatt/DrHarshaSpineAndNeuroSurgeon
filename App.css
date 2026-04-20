@@ -1,1 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #F8FAFC;
+}
 
+.page {
+  padding: 80px 60px;
+}
+
+.hero {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.buttons a {
+  margin-right: 10px;
+  padding: 10px 20px;
+  background: #0B5ED7;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
